@@ -1,0 +1,89 @@
+body {
+	font-size: 9pt; margin-left: 1px; line-height: 160%; font-family: 宋体	
+	
+}
+input {
+	font-size: 9pt; font-family: "宋体","楷体_gb2312"; height: 20px
+}
+textarea {
+	font-size: 9pt; font-family: "宋体","楷体_gb2312"
+}
+select {
+	font-size: 9pt; font-family: "宋体", "楷体_gb2312"
+}
+th {
+	font-weight: normal; font-size: 9pt; font-style: normal; font-family: "宋体", "楷体_gb2312"
+}
+tbody {
+	font-size: 9pt; font-style: normal; font-family: "宋体", "楷体_gb2312"
+}
+#sys{
+	margin-left:      100px;
+}
+p.measureList{
+	text-align:center;
+	font-size:30px;
+	color:#FF0000;
+}
+div.add{
+	text-align:center;
+	font-size:20px;
+}
+div.list{
+	text-align:center;
+}
+
+div.list table{
+  border:           thin solid black;
+  caption-side:     bottom;
+  border-collapse:  collapse;
+  width:800;
+  text-align:center;
+}
+
+div.list td, th {
+  border:           thin dotted gray;
+  padding:          5px;
+}
+
+div.list th {
+  background-color: #cc6600;
+}
+
+div.addList{
+	text-align:center;
+}
+
+div.addList table{
+  border:           thin dotted gray; 
+  caption-side:     bottom;
+  border-collapse:  collapse;
+  width:300;
+  text-align:center;
+}
+div.addList td{
+  border:           thin dotted gray; 
+  padding:          5px;
+}
+div.addList td.right{
+ 	text-align:       right;
+}
+div.addList caption{
+  font-size:20px;
+  color:#FF0000;
+}
+#head{
+	text-align:center;
+}
+
+#headTable{
+	width:			760px;
+	height:			60px;
+	text-align:		center;
+	background:		url(../images/lof.jpg);
+			
+}
+#innerTable{
+	width:90%;
+    height:26;			
+}
